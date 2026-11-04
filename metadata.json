@@ -1,0 +1,8 @@
+{
+  "name": "Remix Helegel - Diyarbakır Rehberi \u0026 Şehir Portalı",
+  "description": "Diyarbakır\u0027a yeni gelenler ve turistler için kapsamlı şehir portalı: Havalimanı \u0026 otogar otobüs hatları, Sur İçi yürüyüş turları, 40+ seçkin kafe, 15+ park, sağlık merkezleri ve kiralık ev rehberi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
